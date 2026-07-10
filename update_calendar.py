@@ -37,7 +37,7 @@ for ep in episodes:
 
     event.add("uid", f'tvmaze-ep-{ep["id"]}@bigbrother-calendar')
     event.add("dtstamp", now_utc)
-    event.add("summary", f'Big Brother - {ep["name"]}')
+    event.add("summary", f'Big Brother S{ep["season"]:02d}E{ep["number"]:02d}')
     event.add("dtstart", start)
     event.add("dtend", start + EPISODE_LENGTH)
     event.add("description", strip_html(ep.get("summary", "")))
