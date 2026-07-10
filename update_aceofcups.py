@@ -12,7 +12,6 @@ OUTPUT_FILE = "aceofcups.ics"
 BASE_URL = "https://aceofcupsbar.com/"
 LOCATION = "Ace of Cups, 2619 N High St, Columbus, OH"
 
-
 MONTHS = {
     "Jan": 1,
     "Feb": 2,
@@ -55,6 +54,8 @@ def parse_date(text):
         0,
     )
 
+    # If the event appears to be in the past,
+    # assume it is next year's event
     if event_date < now - timedelta(days=30):
         event_date = event_date.replace(
             year=now.year + 1
@@ -63,87 +64,10 @@ def parse_date(text):
     return event_date
 
 
-def get_event_times(url):
-    """
-    Gets start/end times from the ticket page.
-    Example:
-    10:00 PM - 1:00 AM EDT
-    """
-
-    try:
-        response = requests.get(
-            url,
-            headers={
-                "User-Agent": "Mozilla/5.0"
-            },
-            timeout=15,
-        )
-
-        response.raise_for_status()
-
-        soup = BeautifulSoup(
-            response.text,
-            "html.parser",
-        )
-
-        text = soup.get_text(
-            " ",
-            strip=True,
-        )
-
-        match = re.search(
-            r"(\d{1,2}:\d{2}\s?(?:AM|PM))\s*-\s*(\d{1,2}:\d{2}\s?(?:AM|PM))",
-            text,
-            flags=re.IGNORECASE,
-        )
-
-        if not match:
-            return None, None
-
-        return (
-            match.group(1),
-            match.group(2),
-        )
-
-    except Exception as e:
-        print(
-            f"Could not get times for {url}: {e}"
-        )
-
-        return None, None
-
-
-def apply_time(base_date, time_text):
-    if not time_text:
-        return base_date
-
-    parsed = datetime.strptime(
-        time_text.upper().replace(" ", ""),
-        "%I:%M%p",
-    )
-
-    return base_date.replace(
-        hour=parsed.hour,
-        minute=parsed.minute,
-    )
-
-
 cal = Calendar()
-
-cal.add(
-    "prodid",
-    "-//Ace of Cups Calendar//"
-)
-
-cal.add(
-    "version",
-    "2.0"
-)
-
-cal.add(
-    "X-WR-CALNAME",
-    "Ace of Cups"
-)
+cal.add("prodid", "-//Ace of Cups Calendar//")
+cal.add("version", "2.0")
+cal.add("X-WR-CALNAME", "Ace of Cups")
 
 
 events_added = 0
@@ -157,7 +81,6 @@ for page in range(1, 10):
     else:
         url = f"{BASE_URL}?list1page={page}"
 
-
     response = requests.get(
         url,
         headers={
@@ -168,17 +91,14 @@ for page in range(1, 10):
 
     response.raise_for_status()
 
-
     soup = BeautifulSoup(
         response.text,
-        "html.parser",
+        "html.parser"
     )
-
 
     cards = soup.select(
         ".seetickets-list-event-container"
     )
-
 
     if not cards:
         break
@@ -194,14 +114,13 @@ for page in range(1, 10):
             ".event-date"
         )
 
-
         if not title_element or not date_element:
             continue
 
 
         ticket_url = title_element.get(
             "href",
-            "",
+            ""
         )
 
 
@@ -235,7 +154,7 @@ for page in range(1, 10):
             r"\s+at Ace of Cups$",
             "",
             title,
-            flags=re.IGNORECASE,
+            flags=re.IGNORECASE
         )
 
 
@@ -243,34 +162,8 @@ for page in range(1, 10):
             date_element.get_text()
         )
 
-
         if not start:
             continue
-
-
-        start_time, end_time = get_event_times(
-            ticket_url
-        )
-
-
-        start = apply_time(
-            start,
-            start_time,
-        )
-
-
-        if end_time:
-            end = apply_time(
-                start,
-                end_time,
-            )
-
-            # Handle events ending after midnight
-            if end <= start:
-                end += timedelta(days=1)
-
-        else:
-            end = start + timedelta(hours=3)
 
 
         description = []
@@ -310,47 +203,51 @@ for page in range(1, 10):
             )
 
 
+        uid_source = (
+            ticket_url
+            or title + str(start)
+        )
+
         uid = hashlib.md5(
-            ticket_url.encode()
+            uid_source.encode()
         ).hexdigest()
 
 
         event = Event()
 
-
         event.add(
             "uid",
-            f"aceofcups-{uid}@calendar",
+            f"aceofcups-{uid}@calendar"
         )
 
         event.add(
             "dtstamp",
-            datetime.now(timezone.utc),
+            datetime.now(timezone.utc)
         )
 
         event.add(
             "summary",
-            title,
+            title
         )
 
         event.add(
             "dtstart",
-            start,
+            start
         )
 
         event.add(
             "dtend",
-            end,
+            start + timedelta(hours=3)
         )
 
         event.add(
             "location",
-            LOCATION,
+            LOCATION
         )
 
         event.add(
             "description",
-            "\n".join(description),
+            "\n".join(description)
         )
 
 
@@ -361,7 +258,7 @@ for page in range(1, 10):
 
 with open(
     OUTPUT_FILE,
-    "wb",
+    "wb"
 ) as f:
     f.write(
         cal.to_ical()
