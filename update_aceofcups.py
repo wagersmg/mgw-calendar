@@ -106,6 +106,8 @@ for page in range(1, 10):
 
     for card in cards:
 
+        print(card.get_text("\n", strip=True))
+        
         title_element = card.select_one(
             ".event-title a"
         )
