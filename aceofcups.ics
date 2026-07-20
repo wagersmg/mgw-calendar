@@ -4,20 +4,10 @@ PRODID:-//Ace of Cups Calendar//
 X-WR-CALNAME:Ace of Cups
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Blu & Exile
-DTSTART;TZID=America/New_York:20260719T190000
-DTEND;TZID=America/New_York:20260719T220000
-DTSTAMP:20260719T115127Z
-UID:aceofcups-e266d74fbc2fbcb31d7c758229ed8765@calendar
-DESCRIPTION:Genre: Hip Hop/Rap\nAge: All Ages\nPrice: $25.00\nTickets: htt
- ps://seetickets.us/event/blu-and-exile-at-ace-of-cups/690773
-LOCATION:Ace of Cups\, 2619 N High St\, Columbus\, OH
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:10 Years
 DTSTART;TZID=America/New_York:20260721T190000
 DTEND;TZID=America/New_York:20260721T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-2930338ebd57c4e4329d52b862860953@calendar
 DESCRIPTION:Genre: Rock\nAge: All Ages\nPrice: $22.00\nTickets: https://se
  etickets.us/event/10-years-at-ace-of-cups/693450
@@ -27,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:School of Rock All‐Stars
 DTSTART;TZID=America/New_York:20260724T190000
 DTEND;TZID=America/New_York:20260724T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-6e2a295d2280f26abe5ecf5e71a19066@calendar
 DESCRIPTION:Genre: Rock\nAge: All Ages\nPrice: $15.00-$50.00\nTickets: htt
  ps://seetickets.us/event/school-of-rock-allstars-at-ace-of-cups/691612
@@ -37,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Just Dance: Recession Pop Dance Night
 DTSTART;TZID=America/New_York:20260724T190000
 DTEND;TZID=America/New_York:20260724T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-5e168c9bc0cdbf028a2d159e0adfcec6@calendar
 DESCRIPTION:Genre: DJ/Dance\nAge: 18+\nPrice: $10.00-$30.00\nTickets: http
  s://seetickets.us/event/just-dance-recession-pop-dance-night-at-ace-of-cup
@@ -48,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Mascara Cowboys
 DTSTART;TZID=America/New_York:20260725T190000
 DTEND;TZID=America/New_York:20260725T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-a369bc0c0f37444365a851d38105fd36@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $10.00\nTickets: https://s
  eetickets.us/event/mascara-cowboys-at-ace-of-cups/696975
@@ -58,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Until I Wake\, Deadlands\, PINKNOISE
 DTSTART;TZID=America/New_York:20260726T190000
 DTEND;TZID=America/New_York:20260726T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-80c0d9fc6b39527cab56731a2e346590@calendar
 DESCRIPTION:Genre: Metal\nAge: All Ages\nPrice: $20.00\nTickets: https://s
  eetickets.us/event/until-i-wake-at-ace-of-cups/689922
@@ -68,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:GlitterMania
 DTSTART;TZID=America/New_York:20260730T190000
 DTEND;TZID=America/New_York:20260730T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-944541fbac3ab79e935ca66268486023@calendar
 DESCRIPTION:Genre: Metalcore\nAge: 18+\nPrice: $10.00\nTickets: https://se
  etickets.us/event/glittermania-at-ace-of-cups/698460
@@ -78,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Dance Floor Confessions: Madonna & Pop Icons Dance Party
 DTSTART;TZID=America/New_York:20260731T190000
 DTEND;TZID=America/New_York:20260731T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-0ffcae413f1e3d0f65a5ee29ce9e359f@calendar
 DESCRIPTION:Genre: DJ/Dance\nAge: 18+\nPrice: $10.00-$30.00\nTickets: http
  s://seetickets.us/event/dance-floor-confessions-madonna-and-pop-icons-danc
@@ -89,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Blockout Bash
 DTSTART;TZID=America/New_York:20260801T190000
 DTEND;TZID=America/New_York:20260801T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-23bf2eeeeb6c3332504bc608bdefb85f@calendar
 DESCRIPTION:Genre: Rock\nAge: All Ages\nPrice: $30.00\nTickets: https://ww
  w.eventbrite.com/e/blockout-bash-2026-tickets-1991873547400?aff=oddtdtcrea
@@ -100,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Heathen
 DTSTART;TZID=America/New_York:20260802T190000
 DTEND;TZID=America/New_York:20260802T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-74fa0ce316f31d5e198af9e77c547dea@calendar
 DESCRIPTION:Genre: Metal\nAge: All Ages\nPrice: $20.00\nTickets: https://s
  eetickets.us/event/heathen-at-ace-of-cups/695284
@@ -110,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Arranged in April
 DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-11906ad671cd666a5a230f77d18c01c7@calendar
 DESCRIPTION:Genre: Emo\nAge: All Ages\nPrice: $15.00\nTickets: https://see
  tickets.us/event/arranged-in-april-at-ace-of-cups/693989
@@ -120,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Music Columbus: The Unheard
 DTSTART;TZID=America/New_York:20260806T190000
 DTEND;TZID=America/New_York:20260806T220000
-DTSTAMP:20260719T115127Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-943b5f7b9fd6309a8b13a321bd1502ad@calendar
 DESCRIPTION:Genre: Alternative\nPrice: $0.00\nTickets: https://seetickets.
  us/event/music-columbus-the-unheard-at-ace-of-cups/694039
@@ -130,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:American Vanity
 DTSTART;TZID=America/New_York:20260807T190000
 DTEND;TZID=America/New_York:20260807T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-3bea8693f971074475ba79b5d654c090@calendar
 DESCRIPTION:Genre: Rock\nAge: All Ages\nPrice: $17.00-$40.00\nTickets: htt
  ps://seetickets.us/event/american-vanity-at-ace-of-cups/686798
@@ -140,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Music + Fashion + Film - a Charli party
 DTSTART;TZID=America/New_York:20260807T190000
 DTEND;TZID=America/New_York:20260807T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-128938fc66bb44b512b2cfc91e63b68c@calendar
 DESCRIPTION:Genre: DJ/Dance\nAge: 18+\nPrice: $10.00-$30.00\nTickets: http
  s://seetickets.us/event/music-fashion-film-a-charli-party-at-ace-of-cups/6
@@ -151,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Villagerrr
 DTSTART;TZID=America/New_York:20260808T190000
 DTEND;TZID=America/New_York:20260808T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-81f08baf1d8767e818571acc049f59a7@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $15.00\nTickets: https://s
  eetickets.us/event/villagerrr-at-ace-of-cups/696231
@@ -161,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Schism: A Dark Alt Dance Party
 DTSTART;TZID=America/New_York:20260808T190000
 DTEND;TZID=America/New_York:20260808T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-0f20d3609ddf5a24b4ebf7ae3d8190d3@calendar
 DESCRIPTION:Genre: Goth\nAge: 21+\nPrice: $5.00\nTickets: https://seeticke
  ts.us/event/schism-a-dark-alt-dance-party/698866
@@ -171,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Of Virtue\, Savage Hands\, Kingdom Collapse\, Sorry X
 DTSTART;TZID=America/New_York:20260809T190000
 DTEND;TZID=America/New_York:20260809T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-8840285c8247d41827e085a9bbff78f1@calendar
 DESCRIPTION:Genre: Metalcore\nAge: All Ages\nPrice: $20.00\nTickets: https
  ://seetickets.us/event/of-virtue-and-savage-hands-at-ace-of-cups/691303
@@ -181,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Kill Bill: The Rapper\, Ashtin Larold
 DTSTART;TZID=America/New_York:20260813T190000
 DTEND;TZID=America/New_York:20260813T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-7426e82e93b0142cd357d5ac4f21a415@calendar
 DESCRIPTION:Genre: Hip Hop/Rap\nAge: All Ages\nPrice: $23.00-$63.00\nTicke
  ts: https://seetickets.us/event/kill-bill-the-rapper-at-ace-of-cups/689597
@@ -191,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Silver Cave
 DTSTART;TZID=America/New_York:20260814T190000
 DTEND;TZID=America/New_York:20260814T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-5a27b64b426da44b58fa404afa41eddb@calendar
 DESCRIPTION:Genre: Rock\nAge: All Ages\nPrice: $12.00\nTickets: https://se
  etickets.us/event/silver-cave-kindness-is-an-art-release-at-ace-of-cup/695
@@ -202,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Unsanctioned Pro: #UPReal [No Ring + Live Music]
 DTSTART;TZID=America/New_York:20260815T190000
 DTEND;TZID=America/New_York:20260815T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-d32ad7a394bf2e0b23b28fbea8c8afcf@calendar
 DESCRIPTION:Genre: Hardcore\nAge: All Ages\nPrice: $25.00\nTickets: https:
  //seetickets.us/event/unsanctioned-pro-upreal-no-ring-live-music/699355
@@ -212,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Joyce Manor
 DTSTART;TZID=America/New_York:20260816T190000
 DTEND;TZID=America/New_York:20260816T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-e604de44618a0194585a4e752a9c45d5@calendar
 DESCRIPTION:Genre: Post Punk\nAge: All Ages\nPrice: $39.50\nTickets: https
  ://seetickets.us/event/sold-out-joyce-manor-at-ace-of-cups/689994
@@ -222,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:wilt
 DTSTART;TZID=America/New_York:20260818T190000
 DTEND;TZID=America/New_York:20260818T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-ea2a2b9964513c91d2bdd576f81fcd79@calendar
 DESCRIPTION:Genre: Alternative\nAge: All Ages\nPrice: $20.00\nTickets: htt
  ps://seetickets.us/event/wilt-at-ace-of-cups/695008
@@ -232,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:comehelpglo
 DTSTART;TZID=America/New_York:20260820T190000
 DTEND;TZID=America/New_York:20260820T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-2d298df65116d7c49b08c4e119c89b16@calendar
 DESCRIPTION:Genre: Hip Hop/Rap\nAge: All Ages\nPrice: $18.00\nTickets: htt
  ps://seetickets.us/event/sold-out-comehelpglo-at-ace-of-cups/693404
@@ -242,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:REZN\, Lume
 DTSTART;TZID=America/New_York:20260822T190000
 DTEND;TZID=America/New_York:20260822T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-ad00b9ca89e243078d4dad7c6b22cbaa@calendar
 DESCRIPTION:Genre: Doom/Stoner Metal\nAge: All Ages\nPrice: $20.00\nTicket
  s: https://seetickets.us/event/rezn-at-ace-of-cups/690510
@@ -252,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Ritual Breaks
 DTSTART;TZID=America/New_York:20260825T190000
 DTEND;TZID=America/New_York:20260825T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-1f966391540ddee415d0ab46b64d38fd@calendar
 DESCRIPTION:Genre: Rock\nAge: All Ages\nPrice: $25.00\nTickets: https://se
  etickets.us/event/ritual-breaks-at-ace-of-cups/695869
@@ -262,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Backhand Blue
 DTSTART;TZID=America/New_York:20260826T190000
 DTEND;TZID=America/New_York:20260826T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-2121407aada19592365b9fa6ef08c6c3@calendar
 DESCRIPTION:Genre: Rock\nPrice: $13.00\nTickets: https://seetickets.us/eve
  nt/backhand-blue-at-ace-of-cups/699287
@@ -272,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Atta Boy
 DTSTART;TZID=America/New_York:20260827T190000
 DTEND;TZID=America/New_York:20260827T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-60419782f0fabeec0cb8383a9f978d66@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $25.00\nTickets: https://s
  eetickets.us/event/atta-boy-at-ace-of-cups/696293
@@ -282,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Nunslaughter
 DTSTART;TZID=America/New_York:20260828T190000
 DTEND;TZID=America/New_York:20260828T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-dd13414b2934aa161099d3265e82f5f4@calendar
 DESCRIPTION:Genre: Metal\nPrice: $25.00\nTickets: https://www.eventbrite.c
  om/e/1991468340415?aff=oddtdtcreator
@@ -292,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Futurebirds
 DTSTART;TZID=America/New_York:20260829T190000
 DTEND;TZID=America/New_York:20260829T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-865ab7b9de0cdefb83dabdf1b906c082@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $22.00\nTickets: https://s
  eetickets.us/event/futurebirds-at-ace-of-cups/696232
@@ -302,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Faetooth\, Latter\, Bosses
 DTSTART;TZID=America/New_York:20260830T190000
 DTEND;TZID=America/New_York:20260830T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-e2d9eb221d6fa98b79b09732f0107d3a@calendar
 DESCRIPTION:Genre: Alternative\nAge: All Ages\nPrice: $20.00\nTickets: htt
  ps://seetickets.us/event/faetooth-at-ace-of-cups/687967
@@ -312,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Ben Quad\, Macseal
 DTSTART;TZID=America/New_York:20260904T190000
 DTEND;TZID=America/New_York:20260904T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-a7701b31d4acbceb72d4b6cf18a05f26@calendar
 DESCRIPTION:Genre: Emo\nAge: All Ages\nPrice: $25.00\nTickets: https://see
  tickets.us/event/ben-quad-and-macseal-at-ace-of-cups/696451
@@ -322,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Sex Mex
 DTSTART;TZID=America/New_York:20260907T190000
 DTEND;TZID=America/New_York:20260907T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-7d2220a5d4204db47663726bf5eef6bd@calendar
 DESCRIPTION:Genre: Punk\nAge: All Ages\nPrice: $15.00\nTickets: https://se
  etickets.us/event/sex-mex-at-ace-of-cups/696644
@@ -332,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Monolord
 DTSTART;TZID=America/New_York:20260908T190000
 DTEND;TZID=America/New_York:20260908T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-d76dcbfaf80c9f379665f298e9f58dc5@calendar
 DESCRIPTION:Genre: Doom/Stoner Metal\nPrice: $30.00\nTickets: https://www.
  eventbrite.com/e/1986079738963?aff=oddtdtcreator
@@ -342,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Galactic Empire
 DTSTART;TZID=America/New_York:20260909T190000
 DTEND;TZID=America/New_York:20260909T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-1441c9ba1514fdb7b3a94369f3ceca76@calendar
 DESCRIPTION:Genre: Metal\nAge: All Ages\nPrice: $22.00\nTickets: https://s
  eetickets.us/event/galactic-empire-at-ace-of-cups/698345
@@ -352,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Dopethrone
 DTSTART;TZID=America/New_York:20260911T190000
 DTEND;TZID=America/New_York:20260911T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-d93c6059ffca8e46f0e92e96989567ad@calendar
 DESCRIPTION:Genre: Doom/Stoner Metal\nAge: 18+\nPrice: $22.00\nTickets: ht
  tps://www.eventbrite.com/e/1986841277746?aff=oddtdtcreator
@@ -362,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Punchline
 DTSTART;TZID=America/New_York:20260912T190000
 DTEND;TZID=America/New_York:20260912T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-ddd8c5663d2dec53a65b388afd8ee15e@calendar
 DESCRIPTION:Genre: Punk\nAge: All Ages\nPrice: $20.00\nTickets: https://se
  etickets.us/event/punchline-37-everywhere-20th-anniversary-at-ace-of-cups/
@@ -373,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Wolves of Glendale
 DTSTART;TZID=America/New_York:20260916T190000
 DTEND;TZID=America/New_York:20260916T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130155Z
 UID:aceofcups-ca7228396e16c7b62bea73ea2389e20b@calendar
 DESCRIPTION:Genre: Alternative\nAge: All Ages\nPrice: $25.00\nTickets: htt
  ps://seetickets.us/event/wolves-of-glendale-at-ace-of-cups/693220
@@ -383,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Rum Jungle
 DTSTART;TZID=America/New_York:20260917T190000
 DTEND;TZID=America/New_York:20260917T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-8fbec31c448d102e31cdc1e6249bc3e9@calendar
 DESCRIPTION:Genre: Surfer Rock\nAge: All Ages\nPrice: $20.00\nTickets: htt
  ps://seetickets.us/event/rum-jungle-at-ace-of-cups/690052
@@ -393,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:Wargasm
 DTSTART;TZID=America/New_York:20260918T190000
 DTEND;TZID=America/New_York:20260918T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-bd8e54c415c125d62f48aed98e86a6e4@calendar
 DESCRIPTION:Genre: Metal\nAge: All Ages\nPrice: $19.50\nTickets: https://s
  eetickets.us/event/wargasm-at-ace-of-cups/694657
@@ -403,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Frankie and The Witch Fingers
 DTSTART;TZID=America/New_York:20260920T190000
 DTEND;TZID=America/New_York:20260920T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-cf1353de47578296669347c920261ba2@calendar
 DESCRIPTION:Genre: Doom/Stoner Metal\nTickets: https://www.eventbrite.com/
  e/frankie-the-witch-fingers-hammered-hulls-garbage-greek-tickets-199424574
@@ -414,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:This Is Lorelei
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-c044a7e1bbb57b7dfd34eec3d928d051@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $20.00\nTickets: https://s
  eetickets.us/event/sold-out-this-is-lorelei-at-ace-of-cups/689677
@@ -424,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Way Dynamic
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-896f8ee0d47f8d247977c2369556a7e3@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $20.00\nTickets: https://s
  eetickets.us/event/way-dynamic-at-ace-of-cups/692756
@@ -434,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Automatic
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-24641f4e685de9b3c0092cdebe40ac38@calendar
 DESCRIPTION:Genre: Synthwave\nAge: All Ages\nPrice: $24.00\nTickets: https
  ://seetickets.us/event/automatic-at-ace-of-cups/695651
@@ -444,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Hot Flash Heat Wave\, Bleary Eyed\, High.
 DTSTART;TZID=America/New_York:20261001T190000
 DTEND;TZID=America/New_York:20261001T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-5d8766c22ee63ad245dee2a6a60099bb@calendar
 DESCRIPTION:Genre: Alternative\nAge: All Ages\nPrice: $20.00\nTickets: htt
  ps://seetickets.us/event/hot-flash-heat-wave-at-ace-of-cups/694141
@@ -454,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Pertinence
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-e44ea51a80632255102795dcc26a150f@calendar
 DESCRIPTION:Genre: Hip Hop/Rap\nAge: All Ages\nPrice: $18.00\nTickets: htt
  ps://seetickets.us/event/pertinence-at-ace-of-cups/688450
@@ -464,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:Revocation
 DTSTART;TZID=America/New_York:20261003T190000
 DTEND;TZID=America/New_York:20261003T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-3eeebfd89a283dade18cc8d17e9ca5a8@calendar
 DESCRIPTION:Genre: Metal\nAge: All Ages\nPrice: $22.00\nTickets: https://s
  eetickets.us/event/revocation-at-ace-of-cups/693455
@@ -474,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Cryogeyser
 DTSTART;TZID=America/New_York:20261004T190000
 DTEND;TZID=America/New_York:20261004T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-d2ee1d47f800d1ab3d0a3b47472e4bcc@calendar
 DESCRIPTION:Genre: Alternative\nPrice: $19.99\nTickets: https://seetickets
  .us/event/cryogeyser-at-ace-of-cups/696965
@@ -484,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:Greywind
 DTSTART;TZID=America/New_York:20261006T190000
 DTEND;TZID=America/New_York:20261006T220000
-DTSTAMP:20260719T115128Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-b011b2b927375362c01f542b505c67fd@calendar
 DESCRIPTION:Genre: Rock\nAge: All Ages\nPrice: $18.00\nTickets: https://se
  etickets.us/event/greywind-at-ace-of-cups/695208
@@ -494,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Surf Hat
 DTSTART;TZID=America/New_York:20261007T190000
 DTEND;TZID=America/New_York:20261007T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-37fe91dda10e54aae99ef35b0494e79b@calendar
 DESCRIPTION:Genre: Blues\nAge: All Ages\nPrice: $18.00\nTickets: https://s
  eetickets.us/event/surf-hat-at-ace-of-cups/694209
@@ -504,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:Upon Your Dead Body
 DTSTART;TZID=America/New_York:20261008T190000
 DTEND;TZID=America/New_York:20261008T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-d0381c8d9b5851d8b0de2cdb64479af1@calendar
 DESCRIPTION:Genre: Metal\nAge: All Ages\nPrice: $18.00\nTickets: https://s
  eetickets.us/event/upon-your-dead-body-at-ace-of-cups/694738
@@ -514,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Wishy
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-ce97dd19be18afcd713a940d7acc0486@calendar
 DESCRIPTION:Genre: Alternative\nAge: All Ages\nPrice: $20.00\nTickets: htt
  ps://seetickets.us/event/wishy-natures-pill-tour-at-ace-of-cups/694143
@@ -524,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:LEAP
 DTSTART;TZID=America/New_York:20261011T190000
 DTEND;TZID=America/New_York:20261011T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-b3cbc9a405d00c3afd1f6efa4a800d87@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $20.00\nTickets: https://s
  eetickets.us/event/leap-at-ace-of-cups/691888
@@ -534,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Grace Enger
 DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-06ff8badf746f3d1e0501fc89e99e47b@calendar
 DESCRIPTION:Genre: Singer/Songwriter\nAge: All Ages\nPrice: $25.00-$90.00\
  nTickets: https://seetickets.us/event/grace-enger-at-ace-of-cups-canceled/
@@ -545,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Rav
 DTSTART;TZID=America/New_York:20261015T190000
 DTEND;TZID=America/New_York:20261015T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-2a9daea5091d3ab02d9459bbf19611cd@calendar
 DESCRIPTION:Genre: Hip Hop/Rap\nAge: All Ages\nPrice: $22.00-$65.00\nTicke
  ts: https://seetickets.us/event/rav-at-ace-of-cups/696969
@@ -555,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:First to Eleven
 DTSTART;TZID=America/New_York:20261019T190000
 DTEND;TZID=America/New_York:20261019T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-fd5ca8326d98aff3dced5b7bb588d277@calendar
 DESCRIPTION:Genre: Rock\nAge: All Ages\nPrice: $20.00-$80.00\nTickets: htt
  ps://seetickets.us/event/first-to-eleven-at-ace-of-cups/697436
@@ -565,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Big D and the Kids Table
 DTSTART;TZID=America/New_York:20261021T190000
 DTEND;TZID=America/New_York:20261021T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-1e0d2f6fec20e3d363842652e4f990fe@calendar
 DESCRIPTION:Genre: Ska\nAge: All Ages\nPrice: $25.00\nTickets: https://see
  tickets.us/event/big-d-and-the-kids-table-at-ace-of-cups/692929
@@ -575,7 +565,7 @@ BEGIN:VEVENT
 SUMMARY:Music Columbus: The Unheard
 DTSTART;TZID=America/New_York:20261022T190000
 DTEND;TZID=America/New_York:20261022T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-67faaa93e237a7861539c96ba383d093@calendar
 DESCRIPTION:Genre: Alternative\nAge: All Ages\nPrice: $0.00\nTickets: http
  s://seetickets.us/event/Music-Columbus-The-Unheard-at-Ace-of-Cups/694041
@@ -585,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:Julia Cole
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-87b7becbf58bb20560a92c84d6113333@calendar
 DESCRIPTION:Genre: Country\nAge: All Ages\nPrice: $25.00\nTickets: https:/
  /seetickets.us/event/julia-cole-at-ace-of-cups/685217
@@ -595,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:The Number Twelve Looks Like You
 DTSTART;TZID=America/New_York:20261027T190000
 DTEND;TZID=America/New_York:20261027T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-22777451aa817e1b493447efedb5ce14@calendar
 DESCRIPTION:Genre: Prog Rock\nAge: All Ages\nPrice: $30.00\nTickets: https
  ://seetickets.us/event/the-number-twelve-looks-like-you-at-ace-of-cups/698
@@ -606,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:In Her Own Words\, Every Avenue
 DTSTART;TZID=America/New_York:20261030T190000
 DTEND;TZID=America/New_York:20261030T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-cf75b781eafa8d413df825be3b9988ec@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $22.50\nTickets: https://s
  eetickets.us/event/in-her-own-words-and-every-avenue-at-ace-of-cups/691458
@@ -616,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:Teen Jesus and the Jean Teasers
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-7ad4b053149d7f1f5f680288d2d5b861@calendar
 DESCRIPTION:Genre: Punk\nAge: All Ages\nPrice: $20.00\nTickets: https://se
  etickets.us/event/teen-jesus-and-the-jean-teasers-at-ace-of-cups/686515
@@ -626,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:she's green
 DTSTART;TZID=America/New_York:20261103T190000
 DTEND;TZID=America/New_York:20261103T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-7e21e7a7ce327480e8143c3abcd321e6@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $15.00\nTickets: https://s
  eetickets.us/event/shes-green-at-ace-of-cups/698715
@@ -636,7 +626,7 @@ BEGIN:VEVENT
 SUMMARY:A Place to Bury Strangers\, ADULT.
 DTSTART;TZID=America/New_York:20261118T190000
 DTEND;TZID=America/New_York:20261118T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-b2fe79293c7f0eec5d8d496443a654f8@calendar
 DESCRIPTION:Genre: Electronic\nAge: All Ages\nPrice: $25.00\nTickets: http
  s://seetickets.us/event/a-place-to-bury-strangers-and-adult-at-ace-of-cups
@@ -647,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:Hot Freaks\, Thesaurus Rex
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-a7cede6fd0ecc21ed7644ac4153d41a4@calendar
 DESCRIPTION:Genre: Indie\nAge: All Ages\nPrice: $20.00\nTickets: https://s
  eetickets.us/event/hot-freaks-at-ace-of-cups/698849
@@ -657,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:They Are Gutting a Body of Water
 DTSTART;TZID=America/New_York:20261122T190000
 DTEND;TZID=America/New_York:20261122T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-569ba289ae476ac5ba6cd1fc02c437df@calendar
 DESCRIPTION:Genre: Alternative\nAge: All Ages\nPrice: $20.00\nTickets: htt
  ps://seetickets.us/event/they-are-gutting-a-body-of-water-at-ace-of-cups/6
@@ -668,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:VALÉ
 DTSTART;TZID=America/New_York:20261209T190000
 DTEND;TZID=America/New_York:20261209T220000
-DTSTAMP:20260719T115129Z
+DTSTAMP:20260720T130156Z
 UID:aceofcups-592044ad4a07e59bfe832478fba0591d@calendar
 DESCRIPTION:Genre: Pop\nAge: All Ages\nPrice: $15.00\nTickets: https://see
  tickets.us/event/vale-at-ace-of-cups/695499
