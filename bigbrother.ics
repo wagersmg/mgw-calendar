@@ -2,21 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Big Brother Calendar//
 BEGIN:VEVENT
-SUMMARY:Big Brother S28E26
-DTSTART:20260907T000000Z
-DTEND:20260907T010000Z
-DTSTAMP:20261006T170406Z
-UID:tvmaze-1453-ep-3652970@bigbrother-calendar
-DESCRIPTION:With only eight remaining and the house split in two\, it's a 
- must-win Head of Household competition! Who will ascend into power? Plus\,
-  Dee and Devens have been ride-or-die since Day 1\, but are the Survivor I
- cons ready to turn on each other?
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Big Brother S28E27
 DTSTART:20260910T000000Z
 DTEND:20260910T010000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3652971@bigbrother-calendar
 DESCRIPTION:The Nom Ceremony conflict continues! Then\, the Veto is on the
   line in the legendary BB Comics Competition! Will one of the Icons save t
@@ -26,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E28
 DTSTART:20260911T000000Z
 DTEND:20260911T010000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3652972@bigbrother-calendar
 DESCRIPTION:Angela\, Devens\, and Dee go to battle in the BB Blockbuster! 
  Who will survive\, and which icon will be sent to the jury?
@@ -35,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E29
 DTSTART:20260914T003000Z
 DTEND:20260914T013000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3652973@bigbrother-calendar
 DESCRIPTION:With only seven remaining\, a crucial Head of Household is up 
  for grabs! Who will earn power? And which three Houseguests will hit the b
@@ -45,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E30
 DTSTART:20260917T000000Z
 DTEND:20260917T010000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3652974@bigbrother-calendar
 DESCRIPTION:The Power of Veto is on the line in the Pressure Cooker compet
  ition! Will Drew\, Barrett\, or Melody endure and earn their safety?
@@ -54,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E31
 DTSTART:20260918T000000Z
 DTEND:20260918T010000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3652975@bigbrother-calendar
 DESCRIPTION:Barrett\, Melody\, and Taylor battle in the final Block Buster
   of the summer! Who will win\, and who will be sent to jury? Then another 
@@ -67,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E32
 DTSTART:20260921T000000Z
 DTEND:20260921T010000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3652976@bigbrother-calendar
 DESCRIPTION:See everything you missed during the jaw-dropping double! Then
  \, season 27 runner-up Vince returns to kick off a crazy new twist! Plus\,
@@ -79,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E33
 DTSTART:20260924T020000Z
 DTEND:20260924T030000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3684555@bigbrother-calendar
 DESCRIPTION:Find out who Devens nominates! Then\, the Houseguests return t
  o Egypt to try and secure the Veto. Plus\, someone's game will come to an 
@@ -90,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E34
 DTSTART:20260925T000000Z
 DTEND:20260925T010000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3684556@bigbrother-calendar
 DESCRIPTION:Three Crossovers are left\, two Icons have survived\, and one 
  Taylor remains. Which one will win the Head of Household? Who will secure 
@@ -102,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E35
 DTSTART:20260928T021500Z
 DTEND:20260928T031500Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3684558@bigbrother-calendar
 DESCRIPTION:It's the fallout from Dee's eviction. Then\, hilarious moments
   from the summer you haven't seen! And Melody's Jury House arrival erupts 
@@ -113,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E36
 DTSTART:20261002T000000Z
 DTEND:20261002T010000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-1453-ep-3767837@bigbrother-calendar
 DESCRIPTION:Devens\, Drew\, and Taylor embark on the endgame. Who will win
   the three part Head of Household competition and earn the power to cast t
@@ -126,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother Unlocked S02E06
 DTSTART:20260919T010000Z
 DTEND:20260919T020000Z
-DTSTAMP:20261006T170406Z
+DTSTAMP:20261007T174209Z
 UID:tvmaze-84768-ep-3617583@bigbrother-calendar
 DESCRIPTION:The fallout from the shocking Double Eviction!  Jerry and Der
  rick welcome BB 26 winner Chelsie.  Along with special guest James Gunn.
