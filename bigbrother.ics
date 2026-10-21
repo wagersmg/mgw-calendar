@@ -2,22 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Big Brother Calendar//
 BEGIN:VEVENT
-SUMMARY:Big Brother S28E32
-DTSTART:20260921T000000Z
-DTEND:20260921T010000Z
-DTSTAMP:20261020T153448Z
-UID:tvmaze-1453-ep-3652976@bigbrother-calendar
-DESCRIPTION:See everything you missed during the jaw-dropping double! Then
- \, season 27 runner-up Vince returns to kick off a crazy new twist! Plus\,
-  they survived the Pressure Cooker\, but can they survive one of the most 
- excruciating HOH comps ever?! Who will stack up power\, and which two Hous
- eguests will be nominated?
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Big Brother S28E33
 DTSTART:20260924T020000Z
 DTEND:20260924T030000Z
-DTSTAMP:20261020T153448Z
+DTSTAMP:20261021T155146Z
 UID:tvmaze-1453-ep-3684555@bigbrother-calendar
 DESCRIPTION:Find out who Devens nominates! Then\, the Houseguests return t
  o Egypt to try and secure the Veto. Plus\, someone's game will come to an 
@@ -28,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E34
 DTSTART:20260925T000000Z
 DTEND:20260925T010000Z
-DTSTAMP:20261020T153448Z
+DTSTAMP:20261021T155146Z
 UID:tvmaze-1453-ep-3684556@bigbrother-calendar
 DESCRIPTION:Three Crossovers are left\, two Icons have survived\, and one 
  Taylor remains. Which one will win the Head of Household? Who will secure 
@@ -40,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E35
 DTSTART:20260928T021500Z
 DTEND:20260928T031500Z
-DTSTAMP:20261020T153448Z
+DTSTAMP:20261021T155146Z
 UID:tvmaze-1453-ep-3684558@bigbrother-calendar
 DESCRIPTION:It's the fallout from Dee's eviction. Then\, hilarious moments
   from the summer you haven't seen! And Melody's Jury House arrival erupts 
@@ -51,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E36
 DTSTART:20261002T000000Z
 DTEND:20261002T010000Z
-DTSTAMP:20261020T153448Z
+DTSTAMP:20261021T155146Z
 UID:tvmaze-1453-ep-3767837@bigbrother-calendar
 DESCRIPTION:Devens\, Drew\, and Taylor embark on the endgame. Who will win
   the three part Head of Household competition and earn the power to cast t
