@@ -2,22 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Big Brother Calendar//
 BEGIN:VEVENT
-SUMMARY:Big Brother S28E34
-DTSTART:20260925T000000Z
-DTEND:20260925T010000Z
-DTSTAMP:20261024T141954Z
-UID:tvmaze-1453-ep-3684556@bigbrother-calendar
-DESCRIPTION:Three Crossovers are left\, two Icons have survived\, and one 
- Taylor remains. Which one will win the Head of Household? Who will secure 
- the final and most important Veto of the season? And ultimately\, which on
- e will be sent to jury next? We are one week away from crowning a winner\,
-  and tonight we get down to the final three.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Big Brother S28E35
 DTSTART:20260928T021500Z
 DTEND:20260928T031500Z
-DTSTAMP:20261024T141954Z
+DTSTAMP:20261025T145352Z
 UID:tvmaze-1453-ep-3684558@bigbrother-calendar
 DESCRIPTION:It's the fallout from Dee's eviction. Then\, hilarious moments
   from the summer you haven't seen! And Melody's Jury House arrival erupts 
@@ -28,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Big Brother S28E36
 DTSTART:20261002T000000Z
 DTEND:20261002T010000Z
-DTSTAMP:20261024T141954Z
+DTSTAMP:20261025T145352Z
 UID:tvmaze-1453-ep-3767837@bigbrother-calendar
 DESCRIPTION:Devens\, Drew\, and Taylor embark on the endgame. Who will win
   the three part Head of Household competition and earn the power to cast t
