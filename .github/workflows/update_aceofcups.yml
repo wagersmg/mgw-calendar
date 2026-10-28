@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests icalendar beautifulsoup4
+          pip install requests icalendar beautifulsoup4 curl_cffi
 
       - name: Generate calendar
         run: |
