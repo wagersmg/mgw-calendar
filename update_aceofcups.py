@@ -4,7 +4,7 @@ import hashlib
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
-import requests
+from curl_cffi import requests as curl_requests
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
 
@@ -70,9 +70,6 @@ cal.add("X-WR-CALNAME", "Ace of Cups")
 events_added = 0
 seen = set()
 
-session = requests.Session()
-session.headers.update(HEADERS)
-
 for page in range(1, 10):
 
     if page == 1:
@@ -80,7 +77,7 @@ for page in range(1, 10):
     else:
         url = f"{BASE_URL}?list1page={page}"
 
-    response = session.get(url, timeout=30)
+    response = curl_requests.get(url, impersonate="chrome", timeout=30)
 
     # Fail loudly (including on 403) so the Action turns red
     response.raise_for_status()
