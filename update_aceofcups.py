@@ -1,4 +1,5 @@
 import re
+import sys
 import hashlib
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -81,15 +82,14 @@ for page in range(1, 10):
 
     response = session.get(url, timeout=30)
 
-    if response.status_code == 403:
-        print(f"WARNING: got 403 fetching page {page}, stopping pagination early.")
-        break
-
+    # Fail loudly (including on 403) so the Action turns red
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
 
     cards = soup.select(".seetickets-list-event-container")
+
+    print(f"Page {page}: HTTP {response.status_code}, {len(cards)} event cards found")
 
     if not cards:
         break
@@ -158,6 +158,12 @@ for page in range(1, 10):
         cal.add_component(event)
 
         events_added += 1
+
+# Never overwrite the existing calendar with an empty one
+if events_added == 0:
+    print("ERROR: 0 events parsed. Not overwriting the existing calendar. "
+          "The site may be blocking requests or its HTML may have changed.")
+    sys.exit(1)
 
 with open(OUTPUT_FILE, "wb") as f:
     f.write(cal.to_ical())
