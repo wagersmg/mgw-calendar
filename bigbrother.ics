@@ -1,17 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Big Brother Calendar//
-BEGIN:VEVENT
-SUMMARY:Big Brother S28E36
-DTSTART:20261002T000000Z
-DTEND:20261002T010000Z
-DTSTAMP:20261031T155814Z
-UID:tvmaze-1453-ep-3767837@bigbrother-calendar
-DESCRIPTION:Devens\, Drew\, and Taylor embark on the endgame. Who will win
-  the three part Head of Household competition and earn the power to cast t
- he last eviction vote of the season. The jury also returns to pick the win
- ner of the three quarters of a million dollars grand prize! Plus the pre-j
- urors are back\, then we reveal who you voted as Americas Favorite Housegu
- est.
-END:VEVENT
 END:VCALENDAR
